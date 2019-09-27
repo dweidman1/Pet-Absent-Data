@@ -1,4 +1,4 @@
-ID,Reason for Absence,Date,Transportation Expense,Distance to Work,Age,Daily Work Load Average,Body Mass Index,Education,Children,Pets,Absenteeism Time in Hours
+ID,Reason for Absence,Date,Transportation Expense,Distance to Work,Age,Daily Work Load Average,Body Mass Index,Education,Children,Pets,AbsenteeismTimeinHours
 11,26,07/07/2015,289,36,33,239.554,30,1,2,1,4
 36,0,14/07/2015,118,13,50,239.554,31,1,1,0,0
 3,23,15/07/2015,179,51,38,239.554,31,1,0,0,2
